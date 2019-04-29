@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# MADG150
+## Readme File
 
-You can use the [editor on GitHub](https://github.com/BradyOlson3/MAGD150-FINAL/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Enclosed in this repository are example codes for MAGD150 at the University of Wisconsin-Whitewater.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Example 1 (Lab 5)
+In this lab, I made to buttons that changed colors when pressed upon.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Click to see the source code](https://github.com/BradyOlson3/MAGD150-FINAL/blob/gh-pages/s19magd150lab05_Olson/s19magd150lab05_Olson.pde)
 
-```markdown
-Syntax highlighted code block
+## Example 2 (Lab 6)
+In this lab, I made a mario retro charecter that jumps when pressed upon.
 
-# Header 1
-## Header 2
-### Header 3
+[Click to see the source code](https://github.com/BradyOlson3/MAGD150-FINAL/tree/gh-pages/s19magd150lab06_Olson)
 
-- Bulleted
-- List
+## Example 3 (Lab 7)
+In this lab, i made many different objects using Pvectors.
 
-1. Numbered
-2. List
+[Click to see the source code](https://github.com/BradyOlson3/MAGD150-FINAL/tree/gh-pages/s19_madg150_lab07_Olson)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BradyOlson3/MAGD150-FINAL/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Example (Lab 8)
+In this lab, we had to use rotation with a text and were able to record the text.
