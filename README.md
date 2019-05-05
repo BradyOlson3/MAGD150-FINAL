@@ -1,7 +1,7 @@
 # MADG150
 ## Readme File
 
-Enclosed in this repository are example codes for MAGD150 at the University of Wisconsin-Whitewater.
+Enclosed in this repository are example codes that i have made for MAGD150 at the University of Wisconsin-Whitewater.
 
 
 ## Example 1 (Lab 5)
